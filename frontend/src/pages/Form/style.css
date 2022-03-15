@@ -26,7 +26,8 @@
     border: 1px color #000;
     height: 200px;
     width: 300px;
-    margin: auto;
+    align-items: center;
+    
     border-radius: 5%;
    
 }
