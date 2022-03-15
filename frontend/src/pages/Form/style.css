@@ -24,6 +24,10 @@
 
 .dsmovie-movie-card-image{
     border: 1px color #000;
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    border-radius: 5%;
    
 }
 
