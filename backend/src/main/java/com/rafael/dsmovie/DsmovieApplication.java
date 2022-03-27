@@ -1,13 +1,13 @@
-package com.movie.project;
+package com.rafael.dsmovie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjectApplication {
+public class DsmovieApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectApplication.class, args);
+		SpringApplication.run(DsmovieApplication.class, args);
 	}
 
 }
